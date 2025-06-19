@@ -7,9 +7,9 @@ API REST que expone endpoints:
 
 ```plaintext
 
-| Método HTTP | Endpoint                                     | Descripción                   |
-|-------------|----------------------------------------------|-------------------------------|
-|  POST       |http://localhost:8080/api/proceso/iniciar     | Muestra mensaje hola mundo    | 
+| Método HTTP | Endpoint                                 | Descripción                |
+|-------------|------------------------------------------|----------------------------|
+|  POST       |http://localhost:8080/api/proceso/iniciar | Muestra mensaje hola mundo | 
 
 ```
 
@@ -49,11 +49,10 @@ mvn spring-boot:run
 La aplicación se ejecutará en:
 
 📍 http://localhost:8080/api/proceso/iniciar
-```
+``
 
 
 ##🌐 Pruebas Con Postman
-
 
 
 
